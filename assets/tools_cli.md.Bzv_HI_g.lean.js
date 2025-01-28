@@ -1,0 +1,1 @@
+import{_ as a,c as i,ai as e,o as t}from"./chunks/framework.BtepRFRs.js";const c=JSON.parse('{"title":"CLI Tool","description":"","frontmatter":{},"headers":[],"relativePath":"tools/cli.md","filePath":"tools/cli.md"}'),n={name:"tools/cli.md"};function l(p,s,h,d,o,r){return t(),i("div",null,s[0]||(s[0]=[e("",15)]))}const F=a(n,[["render",l]]);export{c as __pageData,F as default};

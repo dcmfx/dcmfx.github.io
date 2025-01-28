@@ -1,0 +1,1 @@
+import{_ as a,c as r,ai as s,o as t}from"./chunks/framework.BtepRFRs.js";const c=JSON.parse('{"title":"Design","description":"","frontmatter":{},"headers":[],"relativePath":"design.md","filePath":"design.md"}'),n={name:"design.md"};function o(i,e,l,d,g,m){return t(),r("div",null,e[0]||(e[0]=[s("",5)]))}const f=a(n,[["render",o]]);export{c as __pageData,f as default};
