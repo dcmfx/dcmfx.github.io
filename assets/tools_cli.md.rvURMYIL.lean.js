@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as t,aj as e}from"./chunks/framework.wTHDseTJ.js";const c=JSON.parse('{"title":"CLI Tool","description":"","frontmatter":{},"headers":[],"relativePath":"tools/cli.md","filePath":"tools/cli.md"}'),n={name:"tools/cli.md"};function l(p,s,h,d,k,o){return t(),a("div",null,s[0]||(s[0]=[e("",13)]))}const F=i(n,[["render",l]]);export{c as __pageData,F as default};
